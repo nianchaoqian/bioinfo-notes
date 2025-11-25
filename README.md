@@ -1,3 +1,4 @@
 # bioinfo-notes
 My notes for learning bioinformatics
-fajfajfa
+I am learning GitHub step by step.
+
